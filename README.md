@@ -11,16 +11,27 @@ Features
 - Local web dashboard for monitoring
 - Cost-effective IoT solution
 
-Technologies Used
+## ⚙️ How It Works
 
-- ESP32
-- Arduino IDE
-- C++
-- IoT
-- Ultrasonic Sensor
-- Moisture Sensor
+1. The IR sensor detects when waste is placed near the bin.
+2. The moisture sensor determines whether the waste is wet or dry.
+3. The ESP32 processes the sensor data.
+4. The servo motor directs the waste into the appropriate compartment.
+5. Ultrasonic sensors monitor the fill level of each bin.
+6. A local dashboard displays the waste type and bin status in real time.
+
+## 🛠️ Hardware Components
+
+- ESP32 Development Board
+- Ultrasonic Sensors
 - IR Sensor
+- Moisture Sensor
 - Servo Motor
+
+## 💻 Software Used
+
+- Arduino IDE
+- Embedded C++
 
 Project Structure
 
@@ -52,6 +63,8 @@ My Contribution
 
 ### Dashboard - Wet Waste
 ![Dashboard - Wet Waste](images/04_dashboard_wet.jpg)
+
+
 
 ### Circuit Diagram
 ![Circuit Diagram](images/05_circuit_diagram.jpg)
