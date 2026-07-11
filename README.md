@@ -39,9 +39,22 @@ My Contribution
 - Participated in hardware assembly, testing, and debugging.
 - Contributed to documentation and project development.
 
-Project Preview
+## 📸 Project Preview
 
-(Project images will be added here.)
+### Working Model - Dry Waste
+![Working Model - Dry Waste](images/01_working_model_dry.jpg)
+
+### Working Model - Wet Waste
+![Working Model - Wet Waste](images/02_working_model_wet.jpg)
+
+### Dashboard - Dry Waste
+![Dashboard - Dry Waste](images/03_dashboard_dry.jpg)
+
+### Dashboard - Wet Waste
+![Dashboard - Wet Waste](images/04_dashboard_wet.jpg)
+
+### Circuit Diagram
+![Circuit Diagram](images/05_circuit_diagram.jpg)
 
 Project Report
 
